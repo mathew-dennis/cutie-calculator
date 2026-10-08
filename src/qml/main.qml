@@ -131,7 +131,7 @@ CutieWindow {
 					{ key: "7" }, { key: "8" }, { key: "9" }, { key: "×", op: true },
 					{ key: "4" }, { key: "5" }, { key: "6" }, { key: "−", op: true },
 					{ key: "1" }, { key: "2" }, { key: "3" }, { key: "+", op: true },
-					{ key: "0" }, { key: "." }, { key: "=", op: true }
+					{ key: "00"}, { key: "0" }, { key: "." }, { key: "=", op: true }
 				]
 
 				delegate: CutieButton {
