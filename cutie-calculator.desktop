@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.2
+Type=Application
+Name=Calculator
+Exec=/usr/bin/cutie-calculator
+TryExec=/usr/bin/cutie-calculator
+Icon=cutie-calculator
+Terminal=false
+StartupNotify=false
+Comment=Perform basic calculations
+Categories=Utility;Calculator;
